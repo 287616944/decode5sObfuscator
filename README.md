@@ -33,7 +33,7 @@ node decode5s.js 5s.js
 
 
 
-# 如果想要5s盾的完整js代码，可通过添加下面的微信联系我，价格可谈。
+# 交流群 （加我好友拉你进群）。
 
 
 ![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E5%BE%AE%E4%BF%A1%E5%8F%B7.jpg) 
