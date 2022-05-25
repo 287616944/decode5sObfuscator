@@ -532,7 +532,7 @@ const decodeControlFlowFor5s = {
 		
 		path.replaceWithMultiple(retBody);
 		prevPath.remove();
-		scope.crawl();
+		//scope.crawl();
 	},
 }
 
