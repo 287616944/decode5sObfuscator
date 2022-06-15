@@ -1,0 +1,26 @@
+{
+  "name": "decode5sObfuscator",
+  "version": "1.0.0",
+  "description": "CloudFlare 5s盾第一层混淆代码一键还原",
+  "main": "5s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/287616944/decode5sObfuscator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/287616944/decode5sObfuscator/issues"
+  },
+  "homepage": "https://github.com/287616944/decode5sObfuscator#readme",
+  "dependencies": {
+    "@babel/generator": "^7.18.2",
+    "@babel/parser": "^7.18.5",
+    "@babel/traverse": "^7.18.5",
+    "@babel/types": "^7.18.4"
+  }
+}
